@@ -4,4 +4,4 @@ Pagina web desarrollada con Bootstrap a partir del video tutorial por @Jonmircha
 
 ## Proyectos
 
-- [web development services multi page](https://polariz625.github.io/Bootstrap-maquetacion/bs-maquetacion/)
+- [web development services multi page](https://polariz625.github.io/Bootstrap_Maquetacion/bs-maquetacion/)
