@@ -19,6 +19,7 @@
 /* ********* reset styles *********** */
 html {
 	box-sizing: border-box;
+	scroll-padding-top: 4.7rem;
 }
 
 *,
